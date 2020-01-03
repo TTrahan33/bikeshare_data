@@ -7,7 +7,9 @@ bikeshare_data
 ### Description
 Includes a python script to pull data from 3 bikeshare csv files. Command line
 interface prompts user for input regarding what city to query, month, and day of
-week.
+week.  
+
+The script uses numpy and pandas to create nd arrays and pandas data frames.
 
 ### Files used
 Include the files used
