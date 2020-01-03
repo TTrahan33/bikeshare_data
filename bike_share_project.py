@@ -184,7 +184,7 @@ def user_stats(df):
     print('-'*40)
 
 def show_raw_data(df):
-    """Displays raw data five rows at a time"""
+    """Runs a loop to display raw data five lines at a time until user answers 'no'"""
     start = 0
     end = 5
 
